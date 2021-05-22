@@ -6,3 +6,11 @@
 #### You must keep the files in same folder.
 #### My highest of Level-1= 825  and Level-2= 1123 :)
 #### A detailed info has been provided in "about" button of the window.
+
+Files have been taken from various websites.
+https://www.nicepng.com/ourpic/u2q8a9y3a9r5i1r5_vector-spaces-ship-8-bit-spaceship-sprite/
+http://getdrawings.com/get-icon#explosion-icon-52.png
+https://www.subpng.com/png-v1sage
+https://dlpng.com/png/6480272
+https://toppng.com/show_download/208078/pixel-fireball-fireball-pixel-art/large
+https://opengameart.org/content/lasers-and-beams
